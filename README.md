@@ -17,7 +17,7 @@ Technologies I've been learning and using so far :
     [![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)]
     [![Java](https://img.shields.io/badge/-Java-eee?style=flat-square&logo=java&logoColor=DD9C25)]
     [![C#](https://img.shields.io/badge/-Csharp-eee?style=flat-square&logo=csharp&logoColor=DD9C25)]
-    [![C++](https://img.shields.io/badge/-Cplusplus-eee?style=flat-square&logo=c++&logoColor=DD9C25)]
+    [![C++](https://img.shields.io/badge/-Cplusplus-eee?style=flat-square&logo=cplusplus&logoColor=DD9C25)]
     
    
 
