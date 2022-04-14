@@ -7,9 +7,7 @@
 - 🌱 I’m currently learning *Backend* & *Frontend* with frameworks like SpringBoot and Netjs.
 - 🔥 Most proud of -- [UPC](https://www.upc.edu.pe/), a Peruvian site for intuitive knowledge (maths, education and technology).
 - 😍 My hobbies are [videogames], [programming],[see_movies].
-<br />
-- 💌 Contact me at:
-        [![Gmail])(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) (daniel_inmaculada@hotmail.com)].
+        
 
 Technologies I've been learning and using so far :
 
@@ -37,6 +35,7 @@ Technologies I've been learning and using so far :
 - OS & IDE & Tools : <br />
     [![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]
     [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]
-
+- Email : <br/>
+    [![Gmail])(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) (daniel_inmaculada@hotmail.com)].
 
 Last Edited on: 04/13/2022
