@@ -15,9 +15,9 @@ Technologies I've been learning and using so far :
     [![Python](http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python&logoColor#F7BD2F)]
     [![PHP](http://img.shields.io/badge/-PHP-eee?style=flat-square&logo=php&logoColor=4951aa)]
     [![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)]
-    [![Java](https://img.shields.io/badge/java-Backend-green)]
-    [![C#](https://img.shields.io/badge/C%23-Backend-skyblue)]
-    [![C++](https://img.shields.io/badge/C%2B%2B-Console-skyblue)]
+    [![Java](https://img.shields.io/badge/-Java-eee?style=flat-square&logo=java&logoColor=DD9C25)]
+    [![C#](https://img.shields.io/badge/-Csharp-eee?style=flat-square&logo=csharp&logoColor=DD9C25)]
+    [![C++](https://img.shields.io/badge/-Cplusplus-eee?style=flat-square&logo=cplusplus&logoColor=DD9C25)]
     
    
 
