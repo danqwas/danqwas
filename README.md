@@ -8,7 +8,8 @@
 - 🔥 Most proud of -- [UPC](https://www.upc.edu.pe/), a Peruvian site for intuitive knowledge (maths, education and technology).
 - 😍 My hobbies are [videogames], [programming],[see_movies].
 <br />
-- 💌 Contact me at [![Gmail])(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) (daniel_inmaculada@hotmail.com)].
+- 💌 Contact me at:
+        [![Gmail])(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) (daniel_inmaculada@hotmail.com)].
 
 Technologies I've been learning and using so far :
 
