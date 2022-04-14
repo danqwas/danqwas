@@ -30,7 +30,7 @@ Technologies I've been learning and using so far :
     [![MySQL](http://img.shields.io/badge/-MySQL-eee?style=flat-square&logo=mysql&logoColor=4479A1)]
     [![Heroku](https://img.shields.io/badge/-Heroku-eee?style=flat-square&logo=heroku&logoColor=430098)]
     [![Spring Boot](https://img.shields.io/badge/-SpringBoot-eee?style=flat-square&logo=springboot&logoColor=430098)]
-    [![.NET Core](https://img.shields.io/badge/-NetCore-eee?style=flat-square&logo=netcore&logoColor=430098)]
+    [![.NET Core](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)]
 - OS & IDE & Tools : <br />
     [![VS Code](http://img.shields.io/badge/-VS%20Code-eee?style=flat-square&logo=visual-studio-code&logoColor=007ACC)]
     [![Git](http://img.shields.io/badge/-Git-eee?style=flat-square&logo=git&logoColor=F05032)]
