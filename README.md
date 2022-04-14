@@ -37,6 +37,7 @@ Technologies I've been learning and using so far :
     [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]
 - Email : <br/>
     [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
+    [daniel_inmaculada@hotmail.com]
     
 
 Last Edited on: 04/13/2022
