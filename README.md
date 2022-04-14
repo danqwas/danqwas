@@ -5,7 +5,7 @@
 
 
 - 🌱 I’m currently learning *Backend* & *Frontend* with frameworks like SpringBoot and Netjs.
-- 🔥 Most proud of -- [UPC](https://www.upc.edu.pe/), a Vietnamese site for intuitive knowledge (maths, education and technology).
+- 🔥 Most proud of -- [UPC](https://www.upc.edu.pe/), a Peruvian site for intuitive knowledge (maths, education and technology).
 - 😍 My hobbies are [videogames], [programming],[see_movies].
 - 💌 Contact me at [daniel_inmaculada@hotmail.com].
 
