@@ -39,6 +39,7 @@ Technologies I've been learning and using so far :
 - Email : <br/>
     [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)]
     [daniel.echegaray.apac@outlook.com.pe]
-    
 
-Last Edited on: 04/13/2022
+[![](https://visitcount.itsvg.in/api?id=danqwas&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
+Last Edited on: 24/07/2023
