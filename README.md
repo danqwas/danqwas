@@ -37,8 +37,8 @@ Technologies I've been learning and using so far :
     [![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]
     [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]
 - Email : <br/>
-    [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
-    [daniel.echegaray.apac@gmail.com]
+    [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](link_del_sitio_web)
+    [daniel.echegaray.apac@outlook.com.pe]
     
 
 Last Edited on: 04/13/2022
