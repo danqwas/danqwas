@@ -47,6 +47,6 @@ Technologies I've been learning and using so far :
 [![](https://visitcount.itsvg.in/api?id=danqwas&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 
-[![Danqwas's GitHub stats](https://github-readme-stats.vercel.app/api?username=danqwas)](https://github.com/danqwas/github-readme-stats)
+[![Danqwas's GitHub stats](https://github-readme-stats.vercel.app/api?username=danqwas)](https://github.com/danqwas/github-readme-stats&show_icons=true&theme=monokai)
 
 Last Edited on: 24/07/2023
