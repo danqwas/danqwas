@@ -48,5 +48,6 @@ Technologies I've been learning and using so far :
 
 
 [![Danqwas's GitHub stats](https://github-readme-stats.vercel.app/api?username=danqwas&show_icons=true&theme=monokai)](https://github.com/danqwas/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danqwas&layout=compact)](https://github.com/danqwas/github-readme-stats)
 
 Last Edited on: 24/07/2023
