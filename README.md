@@ -51,7 +51,7 @@ Technologies I've been learning and using so far :
     [daniel.echegaray.apac@outlook.com.pe]
 
 [![](https://visitcount.itsvg.in/api?id=danqwas&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
-![](https://komarev.com/ghpvc/?danqwas)
+
 
 [![Danqwas's GitHub stats](https://github-readme-stats.vercel.app/api?username=danqwas&show_icons=true&theme=monokai)](https://github.com/danqwas/github-readme-stats)
 <br />
