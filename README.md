@@ -51,7 +51,7 @@ Technologies I've been learning and using so far :
     [daniel.echegaray.apac@outlook.com.pe]
 
 
-![snake gif](https://github.com/danqwas/danqwas/blob/output/github-contribution-grid-snake.gif)
+[![jasineri/gitartwork](gitartwork.svg)](https://github.com/danqwas/gitartwork)
 
 [![](https://visitcount.itsvg.in/api?id=danqwas&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
