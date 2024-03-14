@@ -50,6 +50,10 @@ Technologies I've been learning and using so far :
     [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)]
     [daniel.echegaray.apac@outlook.com.pe]
 
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/danqwas/danqwas/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/danqwas/danqwas/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 [![](https://visitcount.itsvg.in/api?id=danqwas&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 
