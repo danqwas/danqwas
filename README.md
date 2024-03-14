@@ -51,8 +51,7 @@ Technologies I've been learning and using so far :
     [daniel.echegaray.apac@outlook.com.pe]
 
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/danqwas/danqwas/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/danqwas/danqwas/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![snake gif](https://github.com/danqwas/danqwas/blob/output/github-contribution-grid-snake.gif)
 
 [![](https://visitcount.itsvg.in/api?id=danqwas&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
