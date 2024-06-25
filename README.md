@@ -4,9 +4,9 @@
 [![My Notes](https://img.shields.io/badge/-My%20Notes-009e22?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAARCAQAAABHwVUUAAAAxklEQVQYlYWROw6BQRSFp1LRW4BaqUCswAJsQYJoJDQsAI0VSIgIpUKjIgqxAIlGoSXexPNz+ecvMDi3uvnmzD0zVymFkwI9ui/Vo4JH4SDEhE9diSkCZMkzZ0Wblq6pwBspJdcGWUgzJEqDOk3S1DTES5IyGwbi37FmL0eqNnQToc+RMQkZkCVHnI4NXYQZcZZmz/ZZOy429JGhJIHepQP5ZeKn/jr1zJMZWmkPZmi9c/ktUNCAtNP625kZ/tqKeuQtmvd5B5bhnUU8EVlfAAAAAElFTkSuQmCC&link=https://tenor.com/view/kirby-headphones-dance-cute-shaking-gif-17762158)]
 
 
-- 🌱 I’m currently learning *Backend* & *Frontend* with frameworks like SpringBoot and NestJS.
+- 🌱 I’m currently improve my skills in  *Backend* & *Frontend* with frameworks like SpringBoot, NestJS and ReactJs.
 - 🔥 Most proud of -- [UPC](https://www.upc.edu.pe/), a Peruvian site for intuitive knowledge (maths, education and technology).
-- 😍 My hobbies are [videogames], [programming],[see_movies].
+- 😍 My hobbies are [videogames], [programming],[see_movies] and mostly live my life.
         
 
 Technologies I've been learning and using so far :
